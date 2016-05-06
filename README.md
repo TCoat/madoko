@@ -1,0 +1,2 @@
+# madoko
+madoko output
